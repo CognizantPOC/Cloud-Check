@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingOwnerRules>
+        <fullName>Share_Leads_with_VP_Sales</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Share Leads with VP Sales</label>
+        <sharedTo>
+            <role>VP_of_Global_Sales</role>
+        </sharedTo>
+        <sharedFrom>
+            <roleAndSubordinates>VP_of_Marketing</roleAndSubordinates>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>
