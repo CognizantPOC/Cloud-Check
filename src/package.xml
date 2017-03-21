@@ -224,6 +224,7 @@
         <members>unfiled$public/Account_with_BOR_Commercial_Field_Update</members>
         <members>unfiled$public/Accounts_with_ACRs</members>
         <members>unfiled$public/BackOfficeRequest_SLA</members>
+        <members>unfiled$public/ReportObject</members>
         <name>Report</name>
     </types>
     <types>
