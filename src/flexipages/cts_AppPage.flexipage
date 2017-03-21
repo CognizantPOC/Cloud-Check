@@ -60,6 +60,17 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
+                <name>greeting</name>
+                <value>Hello</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>subject</name>
+                <value>World</value>
+            </componentInstanceProperties>
+            <componentName>POC_Component</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
                 <name>context</name>
                 <value>BOOKMARKS</value>
             </componentInstanceProperties>
