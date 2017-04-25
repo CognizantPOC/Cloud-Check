@@ -76,6 +76,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>DisplayObjectDetail</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>ExpenseController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -426,6 +430,10 @@
         <enabled>false</enabled>
     </pageAccesses>
     <pageAccesses>
+        <apexPage>myPage</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
+    <pageAccesses>
         <apexPage>remotesitepage</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
@@ -449,6 +457,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>cts_AppPage</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>testReportPage</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Guest User License</userLicense>

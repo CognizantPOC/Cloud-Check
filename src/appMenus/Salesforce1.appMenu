@@ -9,6 +9,10 @@
         <type>CustomTab</type>
     </appMenuItems>
     <appMenuItems>
+        <name>testReportPage</name>
+        <type>CustomTab</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>MyDay</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>

@@ -6,4 +6,5 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
+    <tab>myPage</tab>
 </CustomApplication>

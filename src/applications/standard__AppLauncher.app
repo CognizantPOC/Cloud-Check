@@ -2,4 +2,8 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>standard-AppLauncher</defaultLandingTab>
     <tab>standard-AppLauncher</tab>
+    <tab>MetadataBrowser</tab>
+    <tab>MetadataDeployDemo</tab>
+    <tab>MetadataRetrieveDemo</tab>
+    <tab>myPage</tab>
 </CustomApplication>
