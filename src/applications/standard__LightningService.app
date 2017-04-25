@@ -8,4 +8,5 @@
     <tab>standard-Dashboard</tab>
     <tab>standard-Chatter</tab>
     <tab>standard-home</tab>
+    <tab>myPage</tab>
 </CustomApplication>

@@ -3,6 +3,7 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <tab>standard-home</tab>
     <tab>cts_AppPage</tab>
+    <tab>testReportPage</tab>
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Task</tab>
@@ -18,4 +19,5 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-Case</tab>
     <tab>standard-Forecasting3</tab>
+    <tab>myPage</tab>
 </CustomApplication>

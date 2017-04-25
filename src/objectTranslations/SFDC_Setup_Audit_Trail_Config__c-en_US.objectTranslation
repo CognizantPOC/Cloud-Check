@@ -8,5 +8,33 @@
         <plural>true</plural>
         <value>SFDC Setup Audit Trail Configs</value>
     </caseValues>
+    <fields>
+        <label><!-- Bulk Batch ID --></label>
+        <name>Bulk_Batch_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bulk Job ID --></label>
+        <name>Bulk_Job_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Chatter Group Id --></label>
+        <name>Chatter_Group_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Post to Chatter --></label>
+        <name>Post_to_Chatter__c</name>
+    </fields>
+    <fields>
+        <label><!-- password --></label>
+        <name>password__c</name>
+    </fields>
+    <fields>
+        <label><!-- token --></label>
+        <name>token__c</name>
+    </fields>
+    <fields>
+        <label><!-- username --></label>
+        <name>username__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -10,5 +10,9 @@
     <tab>standard-Dashboard</tab>
     <tab>standard-Product2</tab>
     <tab>standard-Forecasting3</tab>
+    <tab>MetadataBrowser</tab>
+    <tab>MetadataDeployDemo</tab>
+    <tab>MetadataRetrieveDemo</tab>
     <tab>standard-Document</tab>
+    <tab>myPage</tab>
 </CustomApplication>
