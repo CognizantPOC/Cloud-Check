@@ -3,5 +3,4 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <label>Lightning</label>
     <tab>My_Expenses</tab>
-    <tab>myPage</tab>
 </CustomApplication>
