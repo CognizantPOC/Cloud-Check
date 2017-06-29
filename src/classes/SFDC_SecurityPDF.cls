@@ -12,10 +12,14 @@ public String salesOrg {get;set;}
     public Datetime startDate {get;set;}
     public Datetime endDate {get;set;}
 <<<<<<< HEAD
+<<<<<<< HEAD
     //commentaire 
 =======
     
 >>>>>>> b55961829a4fee05edc17caca29457e796556594
+=======
+    //commentaire 
+>>>>>>> origin/Cloud-check/Kim
     public SFDC_SecurityPDF() {
         //List<PG_SubRole__c> subRoles;
         List<User> listUsers;

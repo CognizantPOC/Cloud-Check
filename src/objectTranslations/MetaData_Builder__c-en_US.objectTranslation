@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>MetaData Builders</value>
     </caseValues>
+    <recordTypes>
+        <label><!-- Email --></label>
+        <name>Email</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Loggin information --></label>
+        <name>Loggin_information</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

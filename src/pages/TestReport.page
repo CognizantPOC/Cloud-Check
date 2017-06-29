@@ -1,4 +1,8 @@
 <apex:page > 
+<<<<<<< HEAD
+  <analytics:reportChart reportId="00O4B000000Su5g" >
+=======
   <analytics:reportChart reportId="00O4B000000Stun" >
+>>>>>>> 632949f... POC for custom object
   </analytics:reportChart>
 </apex:page>

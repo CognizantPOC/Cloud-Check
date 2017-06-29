@@ -174,7 +174,11 @@
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
     <tab>standard-LiveAgent</tab>
+    <tab>myPage</tab>
     <workspaceMappings>
+        <mapping>
+            <tab>myPage</tab>
+        </mapping>
         <mapping>
             <tab>standard-Account</tab>
         </mapping>

@@ -8,5 +8,31 @@
         <plural>true</plural>
         <value>SFDC_SecurityUserHistorys</value>
     </caseValues>
+    <fields>
+        <label><!-- DateOfUpdate --></label>
+        <name>DateOfUpdate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field Changed --></label>
+        <name>Field_Changed__c</name>
+    </fields>
+    <fields>
+        <label><!-- New Value --></label>
+        <name>New_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- Old Value --></label>
+        <name>Old_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- UserUpdated --></label>
+        <name>UserUpdated__c</name>
+        <relationshipLabel><!-- SFDC_SecurityUserHistorys (UserUpdated) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- User --></label>
+        <name>User__c</name>
+        <relationshipLabel><!-- SFDC_SecurityUserHistorys (User) --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
